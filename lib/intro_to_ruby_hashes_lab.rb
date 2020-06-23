@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  carton = { "cat" => "tommy", 
+  cartoon = { "cat" => "tommy", "rat" => "Jerry"
 end
 
 def pioneer
